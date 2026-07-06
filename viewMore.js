@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded",()=>{
 
     //add to home section //
     document.getElementById("backHome").addEventListener("click", () => {
-            window.location.href = "home.html"; 
+            window.location.href = "index.html"; 
         });
 
 
